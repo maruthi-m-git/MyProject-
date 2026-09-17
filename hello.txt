@@ -1,2 +1,3 @@
 Hello GitHub!
 This is my first Android project.
+I am learning Git clone and git pull on Android.
